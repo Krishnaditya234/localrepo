@@ -1,13 +1,7 @@
 p1 {
-    align-items: center;
+    align-self: start;
 }
 
 p2 {
-    align-self: start;
-    align-items: center;
-    animation: alternate;
-    align-self: auto;
-    animation-timing-function: ease-in;
-    animation-duration: 1s;
-    animation-name: initial;
+    
 }
