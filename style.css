@@ -1,22 +1,12 @@
-/* Use a class for better practice, e.g., .center-text */
-p1 {
+.p2 {
     display: block;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-    max-width: 90vw;
-    /* Responsive width */
+    max-width: 10%;
     width: 100%;
 }
 
-.center-text {
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-    max-width: 90vw;
-    width: 100%;
-}
-
-body {
+.body1 {
     background-color: burlywood;
 }
