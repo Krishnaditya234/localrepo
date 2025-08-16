@@ -1,0 +1,1 @@
+document.getElementsByClassName('p1').textContent = 'Changed!';
